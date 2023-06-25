@@ -62,11 +62,3 @@ nav ul li:last-child {
     object-fit: cover;
   }
   
-  .padding{
-    height: 20rem;
-    width: 20rem;
-    border-radius: 50px;
-    background-color: green;
-    border: 3px dotted red;
-  }
-  
